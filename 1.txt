@@ -16,4 +16,10 @@ Another line of our meaningful text.
 
 00 99 88 77 66 55 44 33 22 11
 
+<<<<<<< HEAD
+Ilhomjon Sa'dullayev
+
+15.05.2003
+=======
 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
+>>>>>>> b690649656c7056fc2811260b88bef64339ba42e
